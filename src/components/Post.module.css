@@ -1,0 +1,14 @@
+.idText {
+    font-size: small;
+    color:brown
+}
+.cardCont {
+    width: 200px;
+    height: 180px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px 30px;
+}
+.image{
+    width: 30px;
+}
